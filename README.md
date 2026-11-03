@@ -7,10 +7,11 @@ This system handles customer inquiries about product availability, prices, sizes
 ---
 
 ## 📸 Demo & Screenshots
-<img width="576" height="1280" alt="6289838451351819794_121" src="https://github.com/user-attachments/assets/6c8a34ba-6e83-465a-be13-ad1f53442178" />
-<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/dbb741b7-3277-488d-89ac-477987b7152a" />
-<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0e8ac6d5-22a5-455f-854c-7184725a799e" />
-<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/5c059da6-5857-4740-a1ac-938bf75c77cc" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/45b58a00-2a3d-4a09-b109-c76bcaab7add" />
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/35a4d8cf-b391-4c87-9c59-6a5e9a416395" />
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/d4dd730a-d044-410b-82c3-0049ee2d7d9c" />
+<img width="576" height="1280" alt="6289838451351819794_121" src="https://github.com/user-attachments/assets/057fed80-b077-427a-a9be-662aa7af9a6a" />
+
 
 
 
@@ -89,4 +90,4 @@ The Google Sheets node maps AI parameters to the following column headers:
 ---
 
 ## 👤 Author
-
+Tanjina Akter 
